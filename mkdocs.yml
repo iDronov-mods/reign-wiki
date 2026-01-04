@@ -11,7 +11,7 @@ theme:
 nav:
   - Главная: index.md
   - Системы:
-      - Дома: system/houses.md
+      - Дома: systems/houses.md
   - Механики:
-      - Экономика: system/houses.md
-      - Тюрьмы: system/houses.md
+      - Экономика: systems/houses.md
+      - Тюрьмы: systems/houses.md
