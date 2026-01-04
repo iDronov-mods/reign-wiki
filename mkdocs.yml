@@ -9,9 +9,8 @@ theme:
 
 nav:
   - Главная: index.md
-  - Лор:
-      - Королевства: lore/kingdoms.md
-      - Дома: lore/houses.md
+  - Системы:
+      - Дома: system/houses.md
   - Механики:
-      - Экономика: mechanics/economy.md
-      - Тюрьмы: mechanics/prisons.md
+      - Экономика: system/houses.md
+      - Тюрьмы: system/houses.md
