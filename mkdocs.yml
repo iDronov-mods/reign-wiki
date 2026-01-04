@@ -1,0 +1,17 @@
+site_name: Reign Wiki
+site_description: Официальная документация мода Reign
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: slate
+
+nav:
+  - Главная: index.md
+  - Лор:
+      - Королевства: lore/kingdoms.md
+      - Дома: lore/houses.md
+  - Механики:
+      - Экономика: mechanics/economy.md
+      - Тюрьмы: mechanics/prisons.md
