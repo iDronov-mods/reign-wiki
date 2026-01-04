@@ -1,5 +1,6 @@
 site_name: Reign Wiki
 site_description: Официальная документация мода Reign
+site_url: https://idronov-mods.github.io/reign-wiki/
 
 theme:
   name: material
