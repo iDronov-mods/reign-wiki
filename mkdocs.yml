@@ -7,11 +7,11 @@ theme:
   language: ru
   palette:
     - scheme: slate
+      primary: black
+      accent: yellow
 
 nav:
   - Главная: index.md
   - Системы:
       - Дома: systems/houses.md
   - Механики:
-      - Экономика: systems/houses.md
-      - Тюрьмы: systems/houses.md
